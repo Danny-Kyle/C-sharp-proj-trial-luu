@@ -1,0 +1,11 @@
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\bin\Debug\E-Exam Project.exe.config
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\bin\Debug\E-Exam Project.exe
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\bin\Debug\E-Exam Project.pdb
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\obj\Debug\E-Exam Project.csprojResolveAssemblyReference.cache
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\obj\Debug\E_Exam_Project.MainForm.resources
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\obj\Debug\E-Exam Project.csproj.GenerateResource.Cache
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\obj\Debug\E-Exam Project.exe
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\obj\Debug\E-Exam Project.pdb
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\obj\Debug\E_Exam_Project.Login.resources
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\obj\Debug\E_Exam_Project.Homepage.resources
+C:\Users\diked\Documents\SharpDevelop Projects\E-Exam Project\E-Exam Project\obj\Debug\E_Exam_Project.PreExamCounter.resources
